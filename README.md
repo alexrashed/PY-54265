@@ -1,0 +1,1 @@
+Minimum example to reproduce [PY-54265](https://youtrack.jetbrains.com/issue/PY-54265/)
